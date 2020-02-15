@@ -85,3 +85,4 @@ https://deeplearningcourses.com/c/deep-learning-convolutional-neural-networks-th
 
 Unsupervised Deep Learning in Python
 https://deeplearningcourses.com/c/unsupervised-deep-learning-in-python
+[![Run on Repl.it](https://repl.it/badge/github/anettemassimino/machine_learning_examples)](https://repl.it/github/anettemassimino/machine_learning_examples)
